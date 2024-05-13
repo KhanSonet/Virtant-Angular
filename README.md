@@ -1,4 +1,4 @@
-# SAAS based project
+# Tenant based SAAS project
 PHP Laravel / Angular 15
 
 <img src="./screenshots/Screenshot_1.png">
